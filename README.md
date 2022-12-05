@@ -16,3 +16,4 @@
 
 
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/py6255qdmrqbcoh9/branch/main?svg=true)](https://ci.appveyor.com/project/NikitaKurys62983/ra-composition-cards/branch/main)
